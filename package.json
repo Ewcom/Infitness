@@ -1,12 +1,26 @@
 {
   "name": "infitness",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "nodemon": "nodemon src/server.js",
     "start": "node src/server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ewcom/Infitness.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Ewcom/Infitness/issues"
+  },
+  "homepage": "https://github.com/Ewcom/Infitness#readme",
+  "description": ""
 }
