@@ -88,5 +88,10 @@ a{
     .images-grid img:hover{
         transform: scale(1.2);
     }
+
+    .h1mod{
+        color: #FF4545;
+        font-size: 3rem !important;
+    }
        
 }
