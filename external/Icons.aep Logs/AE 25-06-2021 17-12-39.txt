@@ -1,0 +1,8 @@
+  25/06/2021 17:12:39: Starting composition “lock”.
+
+  Output To: C:\Users\ewc0m\Escritorio\PORTAFOLIO\INFITNESS\public\icons\lock (0-00-00-00).png    25/06/2021 17:12:39: Finished composition “lock”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 25/06/2021 at 17:12:39
+
