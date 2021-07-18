@@ -1,0 +1,8 @@
+  18/07/2021 17:56:20: Starting composition “location”.
+
+  Output To: C:\Users\ewc0m\Escritorio\PORTAFOLIO\INFITNESS\public\icons\location.png    18/07/2021 17:56:20: Finished composition “location”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 18/07/2021 at 17:56:20
+

@@ -1,0 +1,8 @@
+  18/07/2021 17:57:35: Starting composition “location 3”.
+
+  Output To: C:\Users\ewc0m\Escritorio\PORTAFOLIO\INFITNESS\public\icons\phone.png    18/07/2021 17:57:35: Finished composition “location 3”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 18/07/2021 at 17:57:35
+
