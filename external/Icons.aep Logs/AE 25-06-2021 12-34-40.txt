@@ -1,8 +1,0 @@
-  25/06/2021 12:34:40: Starting composition “Shower”.
-
-  Output To: C:\Users\ewc0m\Escritorio\PORTAFOLIO\INFITNESS\public\icons\shower.png    25/06/2021 12:34:40: Finished composition “Shower”.
-
-
-  Total Time Elapsed: 0 Seconds
-Log closed on 25/06/2021 at 12:34:40
-

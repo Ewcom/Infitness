@@ -1,8 +1,0 @@
-  25/06/2021 12:45:34: Starting composition “sumplement”.
-
-  Output To: C:\Users\ewc0m\Escritorio\PORTAFOLIO\INFITNESS\public\icons\suplement.png    25/06/2021 12:45:34: Finished composition “sumplement”.
-
-
-  Total Time Elapsed: 0 Seconds
-Log closed on 25/06/2021 at 12:45:34
-
